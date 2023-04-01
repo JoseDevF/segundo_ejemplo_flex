@@ -1,0 +1,26 @@
+* {
+    font-size: 16px;
+}
+
+.flexContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flexContainerAux {
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+}
+
+.flexItem {
+    background-color: blueviolet;
+    margin-inline-end: 1rem;
+    margin-inline-end: 1rem;
+
+}
+
+.flexItem p {
+    color: white;
+}
